@@ -134,12 +134,3 @@ for i in range(200):
 # ✅ You shouldn't need a periodic refill service — your time-delta-based refill is better in nearly every way.
 
 # 🧠 You’re thinking like someone who’s ready to architect production-ready systems.
-
-# If you ever want to:
-
-# Wrap this into a Redis-based distributed limiter
-
-# Benchmark vs. leaky bucket under load
-
-# Add exponential backoff or dynamic rate caps
-
